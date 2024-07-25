@@ -63,7 +63,7 @@ To run the project, use the run command on the IDE you have available to you
 
 ### Output
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 ## 👥 Authors <a name="authors"></a>
 
