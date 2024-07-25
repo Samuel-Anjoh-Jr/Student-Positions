@@ -4,10 +4,8 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
+  - [Output](#output)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -45,7 +43,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd Student-Position
-  git clone https://github.com/ngalamac/Student-Position.git
+  git clone https://github.com/Anjoh-Samuel-Jr/Student-Position.git
 ```
 
 ### Install
