@@ -69,8 +69,8 @@ To run the project, use the run command on the IDE you have available to you
 
 👤 **Anjoh Samuel Jr**
 
-- GitHub: [ngalamac](https://github.com/Anjoh-Samuel-Jr)
-- LinkedIn: [Ngala Mac](https://www.linkedin.com/in/anjoh-samuel-341946302/)
+- GitHub: [Anjoh-Samuel-Jr](https://github.com/Anjoh-Samuel-Jr)
+- LinkedIn: [Anjoh Samuel](https://www.linkedin.com/in/anjoh-samuel-341946302/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
