@@ -61,6 +61,10 @@ Install this project with:
 
 To run the project, use the run command on the IDE you have available to you
 
+### Output
+
+![alt text](image.png)
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Anjoh Samuel Jr**
